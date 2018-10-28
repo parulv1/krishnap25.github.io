@@ -10,8 +10,8 @@ locale                   : "en-US"
 title                    : "Krishna Pillutla"
 title_separator          : "-"
 name                     : &name "Krishna Pillutla"
-description              : &description "PhD student at the University of Washington"
-url                      : https://krishnap25.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Ph.D student at the University of Washington"
+url                      : http://localhost:4000 #https://krishnap25.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "krishnap25/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Krishna Pillutla"
-  avatar           : "profile.png"
-  bio              : "PhD student. Machine learning, optimization and structured prediction"
+  avatar           : "pic2.jpg"
+  bio              : "Ph.D student specializing in ML, optimization and structured prediction"
   location         : "Seattle, WA, USA"
   employer         : "University of Washington"
   googlescholar    : 
@@ -103,7 +103,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : 
@@ -171,16 +171,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -205,15 +196,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -223,15 +205,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
   # _talks
   - scope:
       path: ""
