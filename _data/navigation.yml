@@ -1,14 +1,13 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: /publications.html
+
+  - title: "Software"
+    url: /software.html
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching.html  
 
   - title: "Extracurriculars"
-    url: /extracurriculars/
-
-  - title: "CV"
-    url: /cv/
-
+    url: /extracurriculars.html

@@ -14,3 +14,5 @@ I'm interested in machine learning and optimization broadly, and specifically in
 
 Previously, I worked with [Nina Balcan](http://www.cs.cmu.edu/~ninamf/) for my Master's at Carnegie Mellon University. 
 Before that, I spent 4 wonderful years as an undergrad at IIT Bombay.
+
+Contact me at [my-last-name]@cs[dot]washington[dot]edu.
