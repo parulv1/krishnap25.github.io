@@ -13,7 +13,7 @@ name                     : &name "Krishna Pillutla"
 description              : &description "Ph.D student at the University of Washington"
 url                      : https://krishnap25.github.io #http://localhost:4000 ## the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "krishnap25/academicpages.github.io"
+repository               : "krishnap25/krishnap25.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -86,7 +86,7 @@ author:
   location         : "Seattle, WA, USA"
   employer         : "University of Washington"
   googlescholar    : 
-  email            : "<last-name> @ cs <dot> washington <dot> edu"
+  email            : "pillutla@cs.washington.edu"
   uri              :
   bitbucket        :
   codepen          :
