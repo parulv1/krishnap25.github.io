@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: /publications
 
   - title: "Software"
-    url: /software/
+    url: /software
 
   - title: "Teaching"
-    url: /teaching/
+    url: /teaching
 
   - title: "Extracurriculars"
-    url: /extracurriculars/
+    url: /extracurriculars
