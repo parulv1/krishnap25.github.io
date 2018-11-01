@@ -8,7 +8,6 @@ redirect_from:
 
 {% include base_path %}
 
-See **[DBLP](http://dblp.uni-trier.de/pers/hd/p/Pillutla:Venkata_Krishna)** for a comprehensive list of publications.
 
 
 <!-- Leave two spaces at the end -->
@@ -16,7 +15,7 @@ See **[DBLP](http://dblp.uni-trier.de/pers/hd/p/Pillutla:Venkata_Krishna)** for 
 **A smoother way to train structured prediction models.**  
 Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.  
 To appear in *NIPS 2018*.
-
+[PDF](/papers/2018_nips_smoother.pdf)
 
 **Data driven resource allocation for distributed learning.**  
 Travis Dick, Mu Li, Venkata Krishna Pillutla, Colin White, Maria-Florina Balcan, Alex Smola.  
@@ -31,4 +30,7 @@ Venkata Krishna Pillutla, Zhanpeng Fang, Christos Faloutsos, Danai Koutra, Jie T
 
 **Master's Thesis: Data Driven Resource Allocation For Distributed Machine Learning.**                 
 Thesis Committee: Nina Balcan, Alex Smola, Christos Faloutsos  
-     [PDF](papers/thesis.pdf) [Slides](papers/mthesis_presentation.pdf)
+     [PDF](/papers/thesis.pdf) [Slides](/papers/mthesis_presentation.pdf)
+
+
+The [DBLP](http://dblp.uni-trier.de/pers/hd/p/Pillutla:Venkata_Krishna) listing provides a comprehensive list of my publications.
