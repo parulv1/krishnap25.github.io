@@ -30,7 +30,7 @@ Venkata Krishna Pillutla, Zhanpeng Fang, Christos Faloutsos, Danai Koutra, Jie T
 
 **Master's Thesis: Data Driven Resource Allocation For Distributed Machine Learning.**                 
 Thesis Committee: Nina Balcan, Alex Smola, Christos Faloutsos  
-     [PDF](/papers/thesis.pdf) [Slides](/papers/mthesis_presentation.pdf)
+     [PDF](/papers/mthesis.pdf) [Slides](/papers/mthesis_presentation.pdf)
 
 
 The [DBLP](http://dblp.uni-trier.de/pers/hd/p/Pillutla:Venkata_Krishna) listing provides a comprehensive list of my publications.

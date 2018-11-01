@@ -11,7 +11,7 @@ title                    : "Krishna Pillutla"
 title_separator          : "-"
 name                     : &name "Krishna Pillutla"
 description              : &description "Ph.D student at the University of Washington"
-url                      : http://localhost:4000 #https://krishnap25.github.io # ## the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://krishnap25.github.io #http://localhost:4000 # ## the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "krishnap25/krishnap25.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
