@@ -171,9 +171,9 @@ kramdown:
 
 # Collections
 collections:
-  publications:
+  pages:
     output: true
-    permalink: /:collection/:path/
+    permalink: /:path/
 
 
 # Defaults
