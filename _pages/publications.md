@@ -32,4 +32,4 @@ Thesis Committee: Nina Balcan, Alex Smola, Christos Faloutsos
      [PDF](/papers/mthesis.pdf) [Slides](/papers/mthesis_presentation.pdf)
 
 
-The [DBLP](http://dblp.uni-trier.de/pers/hd/p/Pillutla:Venkata_Krishna) listing provides a comprehensive list of my publications.
+<!-- The [DBLP](http://dblp.uni-trier.de/pers/hd/p/Pillutla:Venkata_Krishna) listing provides a comprehensive list of my publications. -->
