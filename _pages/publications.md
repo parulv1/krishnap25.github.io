@@ -15,6 +15,8 @@ redirect_from:
 Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.  
 To appear in *NIPS 2018*.
 [PDF](/papers/2018_nips_smoother.pdf)
+[Code](https://github.com/krishnap25/casimir)
+[Documentation](https://homes.cs.washington.edu/~pillutla/documentation/casimir/)
 
 **Data driven resource allocation for distributed learning.**  
 Travis Dick, Mu Li, Venkata Krishna Pillutla, Colin White, Maria-Florina Balcan, Alex Smola.  
