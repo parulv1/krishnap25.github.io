@@ -13,7 +13,7 @@ redirect_from:
 
 **A smoother way to train structured prediction models.**  
 Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.  
-To appear in *NeurIPS 2018*. 
+To appear in *NeurIPS 2018*.  
 [PDF](/papers/2018_neurips_smoother.pdf)
 [Code](https://github.com/krishnap25/casimir)
 [Documentation](https://homes.cs.washington.edu/~pillutla/documentation/casimir/)
@@ -21,7 +21,7 @@ To appear in *NeurIPS 2018*.
 
 **Data driven resource allocation for distributed learning.**  
 Travis Dick, Mu Li, Venkata Krishna Pillutla, Colin White, Maria-Florina Balcan, Alex Smola.  
-*AISTATS 2017*.
+*AISTATS 2017*.  
 [Arxiv](http://arxiv.org/abs/1512.04848)  
 
 
