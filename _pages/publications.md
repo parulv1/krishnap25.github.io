@@ -13,7 +13,7 @@ redirect_from:
 
 **A smoother way to train structured prediction models.**  
 Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.  
-To appear in *NeurIPS 2018*.
+To appear in *NeurIPS 2018*. 
 [PDF](/papers/2018_neurips_smoother.pdf)
 [Code](https://github.com/krishnap25/casimir)
 [Documentation](https://homes.cs.washington.edu/~pillutla/documentation/casimir/)
