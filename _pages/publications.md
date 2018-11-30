@@ -17,6 +17,7 @@ To appear in *NeurIPS 2018*.
 [PDF](/papers/2018_neurips_smoother.pdf) &nbsp;
 [Code](https://github.com/krishnap25/casimir) &nbsp;
 [Documentation](https://homes.cs.washington.edu/~pillutla/documentation/casimir/) &nbsp;
+[Poster](/papers/2018_neurips_smoother_poster.pdf) &nbsp;
 [Video summary](https://youtu.be/DkmroHdthvk)
 
 **Data driven resource allocation for distributed learning.**  
