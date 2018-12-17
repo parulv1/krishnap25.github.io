@@ -13,11 +13,12 @@ redirect_from:
 
 **A smoother way to train structured prediction models.**  
 Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.  
-To appear in *NeurIPS 2018*.  
+*NeurIPS 2018*.  
 [PDF](/papers/2018_neurips_smoother.pdf) &nbsp;
 [Code](https://github.com/krishnap25/casimir) &nbsp;
 [Documentation](https://homes.cs.washington.edu/~pillutla/documentation/casimir/) &nbsp;
 [Poster](/papers/2018_neurips_smoother_poster.pdf) &nbsp;
+[Blog post](http://ads-institute.uw.edu//blog/2018/12/17/deep-struct-pred/) &nbsp;
 [Video summary](https://youtu.be/DkmroHdthvk)
 
 **Data driven resource allocation for distributed learning.**  
