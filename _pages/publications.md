@@ -25,7 +25,8 @@ Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.
 **Data driven resource allocation for distributed learning.**  
 Travis Dick, Mu Li, Venkata Krishna Pillutla, Colin White, Maria-Florina Balcan, Alex Smola.  
 *AISTATS 2017*.  
-[PDF-long](http://arxiv.org/abs/1512.04848)  
+[PDF-long](http://arxiv.org/abs/1512.04848) &nbsp;
+[PDF-short](http://proceedings.mlr.press/v54/dick17a/dick17a.pdf) &nbsp;  
 
 
 **On Skewed Multi-dimensional Distributions: the FusionRP Model, Algorithms, and Discoveries.**  
