@@ -17,7 +17,8 @@ Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.
 [PDF-long](https://arxiv.org/pdf/1902.03228.pdf) &nbsp;
 [PDF-short](/papers/2018_neurips_smoother.pdf) &nbsp;
 [Code](https://github.com/krishnap25/casimir) &nbsp;
-[Documentation](https://homes.cs.washington.edu/~pillutla/documentation/casimir/) &nbsp;
+[Documentation](https://homes.cs.washington.edu/~pillutla/documentation/casimir/) 
+
 [Poster](/papers/2018_neurips_smoother_poster.pdf) &nbsp;
 [Blog post](http://ads-institute.uw.edu//blog/2018/12/17/deep-struct-pred/) &nbsp;
 [Video summary](https://youtu.be/DkmroHdthvk)
@@ -25,7 +26,7 @@ Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.
 **Data driven resource allocation for distributed learning.**  
 Travis Dick, Mu Li, Venkata Krishna Pillutla, Colin White, Maria-Florina Balcan, Alex Smola.  
 *AISTATS 2017*.  
-[Arxiv](http://arxiv.org/abs/1512.04848)  
+[PDF-long](http://arxiv.org/abs/1512.04848)  
 
 
 **On Skewed Multi-dimensional Distributions: the FusionRP Model, Algorithms, and Discoveries.**  
