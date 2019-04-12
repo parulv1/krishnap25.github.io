@@ -11,7 +11,7 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
-**A smoother way to train structured prediction models.**  
+**A Smoother Way to Train Structured Prediction Models.**  
 Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.  
 *NeurIPS 2018*.  
 [PDF-long](https://arxiv.org/pdf/1902.03228.pdf) &nbsp;
@@ -22,7 +22,7 @@ Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.
 [Blog post](http://ads-institute.uw.edu//blog/2018/12/17/deep-struct-pred/) &nbsp;
 [Video summary](https://youtu.be/DkmroHdthvk)
 
-**Data driven resource allocation for distributed learning.**  
+**Data Driven Resource Allocation for Distributed Learning.**  
 Travis Dick, Mu Li, Venkata Krishna Pillutla, Colin White, Maria-Florina Balcan, Alex Smola.  
 *AISTATS 2017*.  
 [PDF-long](http://arxiv.org/abs/1512.04848) &nbsp;
