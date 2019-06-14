@@ -11,6 +11,12 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
+**Robust Aggregation for Federated Learning**
+Krishna Pillutla, Sham Kakade, Zaid Harchaoui.
+*Manuscipt*
+[PDF](/papers/2019_robust_aggregation.pdf) &nbsp;
+[Code](https://github.com/krishnap25/RFA)
+
 **A Smoother Way to Train Structured Prediction Models.**  
 Krishna Pillutla, Vincent Roulet, Sham Kakade, Zaid Harchaoui.  
 *NeurIPS 2018*.  
