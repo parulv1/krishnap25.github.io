@@ -13,7 +13,7 @@ redirect_from:
 
 **Robust Aggregation for Federated Learning**
 Krishna Pillutla, Sham Kakade, Zaid Harchaoui.
-*Manuscipt*
+*Manuscipt*.
 [PDF](/papers/2019_robust_aggregation.pdf) &nbsp;
 [Code](https://github.com/krishnap25/RFA)
 
