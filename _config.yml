@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Krishna Pillutla"
+title                    : "Parul Verma"
 title_separator          : "-"
-name                     : &name "Krishna Pillutla"
-description              : &description "Ph.D student at the University of Washington"
-url                      : https://krishnap25.github.io #http://localhost:4000 # ## the base hostname & protocol for your site
+name                     : &name "Parul Verma"
+description              : &description "Ph.D student at Purdue University"
+url                      : https://parulv1.github.io #http://localhost:4000 # ## the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "krishnap25/krishnap25.github.io"
+repository               : "parulv1/parulv1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Krishna Pillutla"
-  avatar           : "pic2.jpg"
-  bio              : "Ph.D student specializing in ML, optimization and structured prediction"
+  name             : "Parul Verma"
+  avatar           : "profile.png"
+  bio              : "Ph.D student specializing in computational neuroscience and chemical engineering"
   location         :
-  employer         : "University of Washington"
+  employer         : "Purdue University"
   googlescholar    : 
-  email            : "pillutla@cs.washington.edu"
+  email            : "verma38@purdue.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,7 +94,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "krishnap25"
+  github           : "parulv1"
   google_plus      :
   keybase          :
   instagram        :
@@ -207,7 +207,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 0 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
