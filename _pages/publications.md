@@ -14,7 +14,7 @@ redirect_from:
 **Using Bifurcation Theory for Exploring Pain.**  
 Parul Verma, Achim Kienle, Dietrich Flockerzi, Doraiswami Ramkrishna.  
 *Submitted*.  
-[PDF](https://www.biorxiv.org/content/10.1101/757187v1)
+[Paper](https://www.biorxiv.org/content/10.1101/757187v1)
 
 <!-- to leave a space: type "&nbsp;" -->
 
