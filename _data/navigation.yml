@@ -2,12 +2,12 @@
 main:
   - title: "Publications"
     url: /publications
-
+    
+  - title: "Projects"
+    url: /projects
+    
   - title: "Software"
     url: /software
 
-  - title: "Talks"
-    url: /talks
-    
   - title: "Extracurriculars"
     url: /extracurriculars
