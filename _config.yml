@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Parul Verma"
-  avatar           : "profile.png"
-  bio              : "Ph.D student specializing in computational neuroscience and chemical engineering"
+  avatar           : "Photo.jpg"
+  bio              : "Ph.D student specializing in computational neuroscience, personalized medicine and chemical engineering"
   location         :
   employer         : "Purdue University"
-  googlescholar    : 
+  googlescholar    : "Parul Verma"
   email            : "verma38@purdue.edu"
   uri              :
   bitbucket        :
@@ -99,14 +99,14 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "parulverma1"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "parulv1"
   vine             :
   weibo            :
   xing             :
