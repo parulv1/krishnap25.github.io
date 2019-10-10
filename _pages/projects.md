@@ -16,4 +16,9 @@ redirect_from:
 
 Project 2, 3 and 4 are in collaboration with [Dr.-Ing Achim Kienle](https://www.mpi-magdeburg.mpg.de/person/26623/16306) and [Dr. Dietrich Flockerzi](http://www2.mpi-magdeburg.mpg.de/old/people/flocke/index.html) at the Max Planck Institute for Dynamics of Complex Technical Systems.   
 
-5. Population balance modeling of leukemic lymphocytes: I employed population balance modeling to obtain time and age distributions of leukemic and normal cells, and tried to optimize infusion time of a chemotherapy drug in order to maximize killing of leukemic cancer cells and minimize killing of normal cells.   
+5. Population balance modeling of leukemic lymphocytes: I employed population balance modeling to obtain time and age distributions of leukemic and normal cells, and tried to optimize infusion time of a chemotherapy drug in order to maximize killing of leukemic cancer cells and minimize killing of normal cells.  
+
+7. Undergraduate thesis: I investigated different functions to develop a moment closure function for the master equation of the TNF-$\alpha$ signaling network in order to estimate noise propagation. 
+
+6. Developing tools for predicting crystal morphology: As an undergraduate summer intern at Purdue University in 2012, I developed 4 software to predict crystal morphology from miller indices, tomographic indices and different saturation conditions. Find the links to the software in my [Software](https://parulv1.github.io/software) page.
+
