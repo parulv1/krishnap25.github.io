@@ -18,7 +18,6 @@ I sing, and have learnt Hindustani classical singing for 4 years. At Purdue, I w
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=fOgxScOcfd4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<br/>
 
 Here is an original composition by Tatvam:  
 
