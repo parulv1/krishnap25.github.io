@@ -14,7 +14,7 @@ For more, check out my <a href="https://www.youtube.com/user/krishnap2504">YouTu
 
 
 
-I sing, and have learnt Hindustani classical singing for 4 years. At Purdue, I was part of a fusion band called Tatvam (<a href="https://www.facebook.com/TatvamPurdue/">Facebook page</a>, <a href="https://www.youtube.com/channel/UCBlDeRAwAAP_SeVPqmVi_HQ">YouTube channel</a>). Here are some videos from the shows we performed. For videos, check out this <a href="https://www.youtube.com/playlist?list=PLLpZ0h8WEPbwnDKhWJ_QUO6eF4m-cC1Rh">playlist</a> on my YouTube channel.   
+I sing, and have learnt Hindustani classical singing for 4 years. At Purdue, I was part of a fusion band called Tatvam (<a href="https://www.facebook.com/TatvamPurdue/">Facebook page</a>, <a href="https://www.youtube.com/channel/UCBlDeRAwAAP_SeVPqmVi_HQ">YouTube channel</a>). Check out this <a href="https://www.youtube.com/playlist?list=PLLpZ0h8WEPbwnDKhWJ_QUO6eF4m-cC1Rh">playlist</a> on my YouTube channel for some of the performances by Tatvam. Here is a mashup we created:   
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fOgxScOcfd4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -29,7 +29,8 @@ Here is an original composition by Tatvam:
 
 I also performed while I was at my IIT Bombay. Check out this <a href="https://www.youtube.com/playlist?list=PLLpZ0h8WEPbwACw-wThjfA_FNDyTm0a_1">playlist</a> for some of my previous recordings.  
 
-* I am also part of <a href="https://web.ics.purdue.edu/~karate/">Purdue Karate Club</a>. We learn Goju-Ryu style, and our dojo is recognized under <a href="http://www.tinoceberano-igk.com.au/tag/goju-kai/">Hanshi Tino Ceberano</a>. Currently, I am at 5th Kyu.  
+* I am also part of <a href="https://web.ics.purdue.edu/~karate/">Purdue Karate Club</a>. We learn Goju-Ryu style karate, and our dojo is recognized under <a href="http://www.tinoceberano-igk.com.au/tag/goju-kai/">Hanshi Tino Ceberano</a>. Currently, I am at 5th Kyu.  
 
-* I occassionally play squash. During my undergrad, I used to play basketball and was part of the Inter IIT basketball team.  
-* I am also part of <a href="https://www.boilerlink.purdue.edu/organization/yesplus">Sky@Purdue</a> club. The focus of this club is mental health, and they organize various events and courses centered around breathing and meditation. The main breathing technique they teach is called Sudarshan Kriya, developed by <a href="https://www.srisriravishankar.org/life/biography/">Sri Sri Ravi Shankar</a>, founder of the <a href="https://artofliving.org/">Art of Living Foundation</a>. <a href="https://www.artofliving.org/us-en/research-sudarshan-kriya">Here</a>, you will find some research articles on benefits of Sudarshan Kriya. I have also done other courses offered by Art of Living such as Sahaj Samadhi, Silence Retreat and Vigyan Bhairav Discourse.
+* I occassionally play squash. During my undergrad, I played basketball and was part of the Inter IIT basketball team.  
+
+* I am also part of <a href="https://www.boilerlink.purdue.edu/organization/yesplus">Sky@Purdue</a> club. The focus of this club is mental health, and they organize various events and courses centered around breathing and meditation. The main breathing technique they teach is called Sudarshan Kriya, developed by <a href="https://www.srisriravishankar.org/life/biography/">Sri Sri Ravi Shankar</a>, founder of the <a href="https://artofliving.org/">Art of Living Foundation</a>. <a href="https://www.artofliving.org/us-en/research-sudarshan-kriya">Here</a>, you will find some research articles on the benefits of Sudarshan Kriya. I have also done other courses offered by Art of Living such as Sahaj Samadhi, Silence Retreat and Vigyan Bhairav Discourse.
