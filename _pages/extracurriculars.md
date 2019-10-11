@@ -16,13 +16,13 @@ For more, check out my <a href="https://www.youtube.com/user/krishnap2504">YouTu
 
 I sing, and have learnt Hindustani classical singing for 4 years. At Purdue, I was part of a fusion band called Tatvam (<a href="https://www.facebook.com/TatvamPurdue/">Facebook page</a>, <a href="https://www.youtube.com/channel/UCBlDeRAwAAP_SeVPqmVi_HQ">YouTube channel</a>). Here are some videos from the shows we performed. For videos, check out this <a href="https://www.youtube.com/playlist?list=PLLpZ0h8WEPbwnDKhWJ_QUO6eF4m-cC1Rh">playlist</a> on my YouTube channel.   
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=fOgxScOcfd4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fOgxScOcfd4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/>
 
 
 Here is an original composition by Tatvam:  
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=v6CDJq9tP1s&list=PLLpZ0h8WEPbwnDKhWJ_QUO6eF4m-cC1Rh&index=5&t=0s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v6CDJq9tP1s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/>
