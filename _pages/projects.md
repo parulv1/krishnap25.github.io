@@ -1,7 +1,6 @@
 ---
 title: "Projects"
 author_profile: true
-classes: wide
 redirect_from: 
   - /projects.html
 ---
