@@ -27,7 +27,7 @@ Here is an original composition by Tatvam:
 
 <br/>
 
-I also performed while I was at my IIT Bombay. Check out this <a href="https://www.youtube.com/playlist?list=PLLpZ0h8WEPbwACw-wThjfA_FNDyTm0a_1">playlist</a> for some of my previous recordings.  
+I also performed while I was at IIT Bombay. Check out this <a href="https://www.youtube.com/playlist?list=PLLpZ0h8WEPbwACw-wThjfA_FNDyTm0a_1">playlist</a> for some of my previous recordings.  
 
 * I am currently a member of <a href="https://web.ics.purdue.edu/~karate/">Purdue Karate Club</a>. We learn Goju-Ryu style karate, and our dojo is recognized under <a href="http://www.tinoceberano-igk.com.au/tag/goju-kai/">Hanshi Tino Ceberano</a>. Currently, I am at 5th Kyu.  
 
