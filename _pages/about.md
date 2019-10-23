@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D candidate in the Davidson School of Chemical Engineering at the **Purdue University**. 
+I am a Ph.D candidate in the Davidson School of Chemical Engineering at **Purdue University**. 
 I am fortunate to be advised by [Dr. Doraiswami Ramkrishna](https://engineering.purdue.edu/ramkiites/).  
 
 My thesis work is on predicting and understanding the mechanism of chemotherapy-induced peripheral neuropathy: a side-effect which manifests itself as a painful, numbing and tingling sensation felt in palm and feet. I also work on pain sensation, and investigate how some genetic mutations can shift pain sensation threshold. I use bifurcation theory, mathematical modeling and machine learning for my work. [Here](https://www.researchgate.net/profile/Parul_Verma7) is my researchgate profile. 
