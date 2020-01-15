@@ -7,7 +7,12 @@ redirect_from:
 
 {% include base_path %}
 
+<!-- Leave two spaces at the end -->
 
+**Computational analysis of a 9D model for a small DRG neuron.**  
+Parul Verma, Achim Kienle, Dietrich Flockerzi, Doraiswami Ramkrishna.  
+*Submitted*.  
+[Preprint](https://arxiv.org/abs/2001.04915)  
 
 <!-- Leave two spaces at the end -->
 
@@ -19,6 +24,7 @@ Parul Verma, Jayachandran Devaraj, Jodi L. Skiles, Tammy Sajdyk, Ellen M. L. Smi
 **Using Bifurcation Theory for Exploring Pain.**  
 Parul Verma, Achim Kienle, Dietrich Flockerzi, Doraiswami Ramkrishna.  
 *Submitted*.  
+[Paper](https://pubs.acs.org/doi/10.1021/acs.iecr.9b04495)  
 [Preprint](https://www.biorxiv.org/content/10.1101/757187v1)
 
 <!-- to leave a space: type "&nbsp;" -->
