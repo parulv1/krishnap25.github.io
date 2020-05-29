@@ -27,7 +27,7 @@ Parul Verma, Jayachandran Devaraj, Jodi L. Skiles, Tammy Sajdyk, Ellen M. L. Smi
 [Preprint](https://www.medrxiv.org/content/early/2019/11/27/19013078.full.pdf)
 
 **Using Bifurcation Theory for Exploring Pain.**  
-Parul Verma, Achim Kienle, Dietrich Flockerzi, Doraiswami Ramkrishna.
+Parul Verma, Achim Kienle, Dietrich Flockerzi, Doraiswami Ramkrishna.  
 *Industrial & Engineering Chemistry Research*. 2020.  
 [Paper](https://pubs.acs.org/doi/10.1021/acs.iecr.9b04495)  
 
