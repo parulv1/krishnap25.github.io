@@ -7,12 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in the Davidson School of Chemical Engineering at **Purdue University**. 
-I am fortunate to be advised by [Dr. Doraiswami Ramkrishna](https://engineering.purdue.edu/ramkiites/).  
+I am a postdoctoral researcher in the [Brain Networks Laboratory](https://radiology.ucsf.edu/research/labs/brain-networks-lab#-) in the Department of Radiology and Biomedical Imaging at University of California, San Francisco. My PI is [Ashish Raj](https://profiles.ucsf.edu/ashish.raj), who specializes in using graph theory techniques to investigate the whole brain connectome. You can follow our lab's [twitter handle](https://twitter.com/RajLab_UCSF) for updates on our work. 
 
-My thesis work is on predicting and understanding the mechanism of chemotherapy-induced peripheral neuropathy: a side-effect which manifests itself as a painful, numbing and tingling sensation felt in palm and feet. I also work on pain sensation, and investigate how some genetic mutations can shift pain sensation threshold. I use bifurcation theory, mathematical modeling, and machine learning for my work. Please check out a news release on our work at [Purdue Research Foundation news](https://www.purdue.edu/newsroom/releases/2019/Q4/an-engineering-approach-to-reduce-the-pain-of-chemotherapy.html), [Medical Xpress](https://medicalxpress.com/news/2019-12-approach-pain-chemotherapy.html), and [HealthCanal](https://www.healthcanal.com/cancers/249612-an-engineering-approach-to-reduce-the-pain-of-chemotherapy.html). [Here](https://www.researchgate.net/profile/Parul_Verma7) is my researchgate profile. 
+Previously, I obtained my doctorate degree from the Davidson School of Chemical Engineering at **Purdue University**. 
+I have been fortunate to be advised by [Dr. Doraiswami Ramkrishna](https://engineering.purdue.edu/ramkiites/), who specializes in mathematical modeling, in particular in using population balance modeling and cybernetic modeling.  
+
+My thesis work was on predicting and understanding the mechanism of chemotherapy-induced peripheral neuropathy: a side-effect which manifests itself as a painful, numbing and tingling sensation felt in palm and feet. I also worked on pain sensation, and investigated how some genetic mutations can shift pain sensation threshold. I used bifurcation theory, mathematical modeling, and machine learning for my work. Please check out a news release on our work at [Purdue Research Foundation news](https://www.purdue.edu/newsroom/releases/2019/Q4/an-engineering-approach-to-reduce-the-pain-of-chemotherapy.html), [Medical Xpress](https://medicalxpress.com/news/2019-12-approach-pain-chemotherapy.html), and [HealthCanal](https://www.healthcanal.com/cancers/249612-an-engineering-approach-to-reduce-the-pain-of-chemotherapy.html). [Here](https://www.researchgate.net/profile/Parul_Verma7) is my researchgate profile. 
 
 Before joining Purdue, I obtained my Bachelor of Technology degree in Chemical Engineering from IIT Bombay. There, I carried out a research project on moment closure methods for TNF-alpha signaling model with [Dr. Ganesh Viswanathan](https://www.che.iitb.ac.in/faculty/ganesh/index.html). 
 
-Contact me at [my-last-name] 38 @ purdue [dot] edu.
+Contact me at [my-first-name] [dot] [my-last-name] @ ucsf [dot] edu.
 
