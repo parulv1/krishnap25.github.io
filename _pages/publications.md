@@ -9,6 +9,11 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
+**A mathematical investigation of chemotherapy-induced peripheral neuropathy.**  
+Parul Verma, Muriel Eaton, Achim Kienle, Dietrich Flockerzi, Yang Yang, Doraiswami Ramkrishna.  
+*Submitted*.  
+[Preprint](https://www.biorxiv.org/content/10.1101/2020.04.23.057851v1)
+
 **Computational analysis of a 9D model for a small DRG neuron.**  
 Parul Verma, Achim Kienle, Dietrich Flockerzi, Doraiswami Ramkrishna.  
 *Submitted*.  
@@ -22,10 +27,9 @@ Parul Verma, Jayachandran Devaraj, Jodi L. Skiles, Tammy Sajdyk, Ellen M. L. Smi
 [Preprint](https://www.medrxiv.org/content/early/2019/11/27/19013078.full.pdf)
 
 **Using Bifurcation Theory for Exploring Pain.**  
-Parul Verma, Achim Kienle, Dietrich Flockerzi, Doraiswami Ramkrishna.  
-*Submitted*.  
+Parul Verma, Achim Kienle, Dietrich Flockerzi, Doraiswami Ramkrishna.
+*Industrial & Engineering Chemistry Research*. 2020.  
 [Paper](https://pubs.acs.org/doi/10.1021/acs.iecr.9b04495)  
-[Preprint](https://www.biorxiv.org/content/10.1101/757187v1)
 
 <!-- to leave a space: type "&nbsp;" -->
 
