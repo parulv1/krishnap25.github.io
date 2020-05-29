@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in the [Brain Networks Laboratory](https://radiology.ucsf.edu/research/labs/brain-networks-lab#-) in the Department of Radiology and Biomedical Imaging at University of California, San Francisco. My PI is [Ashish Raj](https://profiles.ucsf.edu/ashish.raj), who specializes in using graph theory techniques to investigate the whole brain connectome. You can follow our lab's [twitter handle](https://twitter.com/RajLab_UCSF) for updates on our work. 
+I am a postdoctoral researcher in the [Brain Networks Laboratory](https://radiology.ucsf.edu/research/labs/brain-networks-lab#-) at the Department of Radiology and Biomedical Imaging at University of California, San Francisco. My PI is [Ashish Raj](https://profiles.ucsf.edu/ashish.raj), who specializes in using graph theory techniques to investigate the whole brain connectome. You can follow our lab's [twitter handle](https://twitter.com/RajLab_UCSF) for updates on our work. 
 
 Previously, I obtained my doctorate degree from the Davidson School of Chemical Engineering at **Purdue University**. 
 I have been fortunate to be advised by [Dr. Doraiswami Ramkrishna](https://engineering.purdue.edu/ramkiites/), who specializes in mathematical modeling, in particular in using population balance modeling and cybernetic modeling.  
