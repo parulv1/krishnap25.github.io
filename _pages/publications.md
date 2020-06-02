@@ -22,7 +22,7 @@ Parul Verma, Achim Kienle, Dietrich Flockerzi, Doraiswami Ramkrishna.
 <!-- Leave two spaces at the end -->
 
 **A Metabolomics Approach for Early Prediction of Vincristine-Induced Peripheral Neuropathy.**  
-Parul Verma, Jayachandran Devaraj, Jodi L. Skiles, Tammy Sajdyk, Ellen M. L. Smith, Richard H. Ho, Raymond Hutchinson, Elizabeth Wells, Lang Li, Jamie Renbarger, Bruce Cooper, Doraiswami Ramkrishna.  
+Parul Verma, Jayachandran Devaraj, Jodi L. Skiles, Tammy Sajdyk, Richard H. Ho, Raymond Hutchinson, Elizabeth Wells, Lang Li, Jamie Renbarger, Bruce Cooper, Doraiswami Ramkrishna.  
 *Submitted*.  
 [Preprint](https://www.medrxiv.org/content/early/2019/11/27/19013078.full.pdf)
 
