@@ -2,6 +2,8 @@ A Github Pages template for academic websites. This was forked (then detached) b
 
 This is to demonstrate push and pull.
 
+Modification 2
+
 ## INSTALLATION
 brew install rbenv
 rbenv install 2.5.3
