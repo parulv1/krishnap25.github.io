@@ -9,22 +9,22 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
-**A mathematical investigation of chemotherapy-induced peripheral neuropathy.**  
+**Examining Sodium and Potassium Channel Conductances Involved in Hyperexcitability of Chemotherapy-Induced Peripheral Neuropathy: A Mathematical and Cell Culture-Based Study.**  
 Parul Verma, Muriel Eaton, Achim Kienle, Dietrich Flockerzi, Yang Yang, Doraiswami Ramkrishna.  
-*Submitted*.  
-[Preprint](https://www.biorxiv.org/content/10.1101/2020.04.23.057851v1)
+*Frontiers in Computational Neuroscience*. 2020.  
+[Paper](https://www.frontiersin.org/articles/10.3389/fncom.2020.564980/full)
 
 **Computational analysis of a 9D model for a small DRG neuron.**  
 Parul Verma, Achim Kienle, Dietrich Flockerzi, Doraiswami Ramkrishna.  
-*Submitted*.  
-[Preprint](https://arxiv.org/abs/2001.04915)  
+*Journal of Computational Neuroscience*. 2020.  
+[Paper](https://link.springer.com/article/10.1007/s10827-020-00761-6)  
 
 <!-- Leave two spaces at the end -->
 
 **A Metabolomics Approach for Early Prediction of Vincristine-Induced Peripheral Neuropathy.**  
 Parul Verma, Jayachandran Devaraj, Jodi L. Skiles, Tammy Sajdyk, Richard H. Ho, Raymond Hutchinson, Elizabeth Wells, Lang Li, Jamie Renbarger, Bruce Cooper, Doraiswami Ramkrishna.  
-*Submitted*.  
-[Preprint](https://www.medrxiv.org/content/early/2019/11/27/19013078.full.pdf)
+*Scientific Reports*. 2020  
+[Paper](https://www.nature.com/articles/s41598-020-66815-y)
 
 **Using Bifurcation Theory for Exploring Pain.**  
 Parul Verma, Achim Kienle, Dietrich Flockerzi, Doraiswami Ramkrishna.  
