@@ -10,7 +10,7 @@ redirect_from:
 <!-- Leave two spaces at the end -->
 
 **Emergence of directional bias in tau deposition from axonal transport dynamics.**  
-Justin Torok, Pedro D. Maia, Parul Verma, Christopher Mezias, Ashish Raj 
+Justin Torok, Pedro D. Maia, Parul Verma, Christopher Mezias, Ashish Raj.  
 *PLOS Computational Biology*. 2021.  
 [Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009258)
 
