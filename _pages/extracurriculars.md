@@ -29,7 +29,7 @@ Here is an original composition by Tatvam:
 
 I also performed while I was at IIT Bombay. Check out this <a href="https://www.youtube.com/playlist?list=PLLpZ0h8WEPbwACw-wThjfA_FNDyTm0a_1">playlist</a> for some of my previous recordings.  
 
-* I was a member of <a href="https://web.ics.purdue.edu/~karate/">Purdue Karate Club</a>. We learnt Goju-Ryu style karate, and our dojo is recognized under <a href="http://www.tinoceberano-igk.com.au/tag/goju-kai/">Hanshi Tino Ceberano</a>. Currently, I am at 2nd Kyu and practising karate on my own.  
+* I was a member of <a href="https://web.ics.purdue.edu/~karate/">Purdue Karate Club</a>. We learnt Goju-Ryu style karate, and our dojo is recognized under <a href="http://www.tinoceberano-igk.com.au/tag/goju-kai/">Hanshi Tino Ceberano</a>. Currently, I am at Shodan Ho level (1st level black belt) and practising karate on my own.  
 
 * I occassionally play squash. During my undergrad, I played basketball and was part of the Inter IIT basketball team.  
 
