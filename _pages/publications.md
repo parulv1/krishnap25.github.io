@@ -9,6 +9,11 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->
 
+**Emergence of directional bias in tau deposition from axonal transport dynamics.**  
+Justin Torok, Pedrio D. Maia, Parul Verma, Christopher Mezias, Ashish Raj 
+*PLOS Computational Biology*. 2021.  
+[Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009258)
+
 **Examining Sodium and Potassium Channel Conductances Involved in Hyperexcitability of Chemotherapy-Induced Peripheral Neuropathy: A Mathematical and Cell Culture-Based Study.**  
 Parul Verma, Muriel Eaton, Achim Kienle, Dietrich Flockerzi, Yang Yang, Doraiswami Ramkrishna.  
 *Frontiers in Computational Neuroscience*. 2020.  
