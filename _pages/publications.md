@@ -15,7 +15,7 @@ Parul Verma, Srikantan Nagarajan, Ashish Raj.
 
 **Spectral graph theory of brain oscillations—-Revisited and improved**  
 Parul Verma, Srikantan Nagarajan, Ashish Raj.  
-*Neuroimage*. 2022
+*Neuroimage*. 2022.  
 [Paper](https://www.sciencedirect.com/science/article/pii/S1053811922000490?via%3Dihub)  
 
 **Emergence of directional bias in tau deposition from axonal transport dynamics.**  
