@@ -7,7 +7,16 @@ redirect_from:
 
 {% include base_path %}
 
-<!-- Leave two spaces at the end -->
+<!-- Leave two spaces at the end -->  
+
+**Stability and dynamics of a spectral graph model of brain oscillations**  
+Parul Verma, Srikantan Nagarajan, Ashish Raj.  
+[Preprint](https://www.biorxiv.org/content/10.1101/2021.12.02.470983v1.abstract)  
+
+**Spectral graph theory of brain oscillations—-Revisited and improved**  
+Parul Verma, Srikantan Nagarajan, Ashish Raj.  
+*Neuroimage*. 2022
+[Paper](https://www.sciencedirect.com/science/article/pii/S1053811922000490?via%3Dihub)  
 
 **Emergence of directional bias in tau deposition from axonal transport dynamics.**  
 Justin Torok, Pedro D. Maia, Parul Verma, Christopher Mezias, Ashish Raj.  
