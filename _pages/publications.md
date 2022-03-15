@@ -14,7 +14,7 @@ Kamalini Ranasinghe, Parul Verma, Chang Cai, Xihe Xie, Kiwamu Kudo, Xiao Gao, Ha
 [Preprint](https://www.biorxiv.org/content/10.1101/2022.03.09.483594v1)  
 
 **Whole brain network analysis of neural synchrony and information flow during transition from wakefulness to light non-rapid eye movement sleep**  
-Joline M Fan, Kiwamu Kudo, Parul Verma, Kamalini G Ranasinghe, Hirofumi Morise, Anne M Findlay, Heidi E Kirsch, Ashish Raj, Andrew D Krystal, Srikantan S Nagarajan .  
+Joline M Fan, Kiwamu Kudo, Parul Verma, Kamalini G Ranasinghe, Hirofumi Morise, Anne M Findlay, Heidi E Kirsch, Ashish Raj, Andrew D Krystal, Srikantan S Nagarajan.    
 [Preprint](https://www.biorxiv.org/content/10.1101/2022.03.09.483562v1)  
 
 **Stability and dynamics of a spectral graph model of brain oscillations**  
