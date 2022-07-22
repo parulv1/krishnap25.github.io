@@ -15,7 +15,7 @@ Joline M Fan, Kiwamu Kudo, Parul Verma, Kamalini G Ranasinghe, Hirofumi Morise, 
 
 **Stability and dynamics of a spectral graph model of brain oscillations**  
 Parul Verma, Srikantan Nagarajan, Ashish Raj.  
-[Preprint](https://www.biorxiv.org/content/10.1101/2021.12.02.470983v1.abstract)  
+[Paper](https://direct.mit.edu/netn/article/doi/10.1162/netn_a_00263/112205/Stability-and-dynamics-of-a-spectral-graph-model)  
 
 **Altered excitatory and inhibitory neuronal subpopulation parameters are distinctly associated with tau and amyloid in Alzheimer's disease**  
 Kamalini Ranasinghe, Parul Verma, Chang Cai, Xihe Xie, Kiwamu Kudo, Xiao Gao, Hannah Lerner, Danielle Mizuiri, Amelia Strom, Leonardo Iaccarino, Renaud La Joie, Bruce L Miller, Maria Luisa Gorno-Tempini, Katherine P Rankin, William J Jagust, Keith Vossel, Gil Rabinovici, Ashish Raj, Srikantan Nagarajan.  
