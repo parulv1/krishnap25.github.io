@@ -13,6 +13,14 @@ redirect_from:
 Joline M Fan, Kiwamu Kudo, Parul Verma, Kamalini G Ranasinghe, Hirofumi Morise, Anne M Findlay, Heidi E Kirsch, Ashish Raj, Andrew D Krystal, Srikantan S Nagarajan.    
 [Preprint](https://www.biorxiv.org/content/10.1101/2022.03.09.483562v1)  
 
+**Structure-function models of temporal, spatial, and spectral characteristics of non-invasive whole brain functional imaging**  
+Ashish Raj, Parul Verma, Srikantan Nagarajan  
+[Paper](https://www.frontiersin.org/articles/10.3389/fnins.2022.959557/full)
+
+**Connectome-based biophysics models of Alzheimer’s disease diagnosis and prognosis**  
+Justin Torok, Chaitali Anand, Parul Verma, Ashish Raj  
+[Paper](https://www.sciencedirect.com/science/article/pii/S1931524422001815)
+
 **Stability and dynamics of a spectral graph model of brain oscillations**  
 Parul Verma, Srikantan Nagarajan, Ashish Raj.  
 [Paper](https://direct.mit.edu/netn/article/doi/10.1162/netn_a_00263/112205/Stability-and-dynamics-of-a-spectral-graph-model)  
