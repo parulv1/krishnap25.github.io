@@ -9,27 +9,27 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->  
 
-**Whole brain network analysis of neural synchrony and information flow during transition from wakefulness to light non-rapid eye movement sleep**  
+**Whole brain network analysis of neural synchrony and information flow during transition from wakefulness to light non-rapid eye movement sleep.**  
 Joline M Fan, Kiwamu Kudo, Parul Verma, Kamalini G Ranasinghe, Hirofumi Morise, Anne M Findlay, Heidi E Kirsch, Ashish Raj, Andrew D Krystal, Srikantan S Nagarajan.    
 [Preprint](https://www.biorxiv.org/content/10.1101/2022.03.09.483562v1)  
 
-**Structure-function models of temporal, spatial, and spectral characteristics of non-invasive whole brain functional imaging**  
-Ashish Raj, Parul Verma, Srikantan Nagarajan  
+**Structure-function models of temporal, spatial, and spectral characteristics of non-invasive whole brain functional imaging.**  
+Ashish Raj, Parul Verma, Srikantan Nagarajan.  
 [Paper](https://www.frontiersin.org/articles/10.3389/fnins.2022.959557/full)
 
-**Connectome-based biophysics models of Alzheimer’s disease diagnosis and prognosis**  
-Justin Torok, Chaitali Anand, Parul Verma, Ashish Raj  
+**Connectome-based biophysics models of Alzheimer’s disease diagnosis and prognosis.**  
+Justin Torok, Chaitali Anand, Parul Verma, Ashish Raj.  
 [Paper](https://www.sciencedirect.com/science/article/pii/S1931524422001815)
 
-**Stability and dynamics of a spectral graph model of brain oscillations**  
+**Stability and dynamics of a spectral graph model of brain oscillations.**  
 Parul Verma, Srikantan Nagarajan, Ashish Raj.  
 [Paper](https://direct.mit.edu/netn/article/doi/10.1162/netn_a_00263/112205/Stability-and-dynamics-of-a-spectral-graph-model)  
 
-**Altered excitatory and inhibitory neuronal subpopulation parameters are distinctly associated with tau and amyloid in Alzheimer's disease**  
+**Altered excitatory and inhibitory neuronal subpopulation parameters are distinctly associated with tau and amyloid in Alzheimer's disease.**  
 Kamalini Ranasinghe, Parul Verma, Chang Cai, Xihe Xie, Kiwamu Kudo, Xiao Gao, Hannah Lerner, Danielle Mizuiri, Amelia Strom, Leonardo Iaccarino, Renaud La Joie, Bruce L Miller, Maria Luisa Gorno-Tempini, Katherine P Rankin, William J Jagust, Keith Vossel, Gil Rabinovici, Ashish Raj, Srikantan Nagarajan.  
 [Paper](https://elifesciences.org/articles/77850)  
 
-**Spectral graph theory of brain oscillations—-Revisited and improved**  
+**Spectral graph theory of brain oscillations—-Revisited and improved.**  
 Parul Verma, Srikantan Nagarajan, Ashish Raj.  
 *Neuroimage*. 2022.  
 [Paper](https://www.sciencedirect.com/science/article/pii/S1053811922000490?via%3Dihub)  
