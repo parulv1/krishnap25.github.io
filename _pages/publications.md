@@ -9,6 +9,10 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->  
 
+**Bayesian Inference of a Spectral Graph Model for Brain Oscillations.**  
+Huaqing Jin, Parul Verma, Fei Jiang, Srikantan Nagarajan, Ashish Raj.  
+[Preprint](https://www.biorxiv.org/content/10.1101/2023.03.01.530704v1)
+
 **Whole brain network analysis of neural synchrony and information flow during transition from wakefulness to light non-rapid eye movement sleep.**  
 Joline M Fan, Kiwamu Kudo, Parul Verma, Kamalini G Ranasinghe, Hirofumi Morise, Anne M Findlay, Heidi E Kirsch, Ashish Raj, Andrew D Krystal, Srikantan S Nagarajan.    
 [Preprint](https://www.biorxiv.org/content/10.1101/2022.03.09.483562v1)  
