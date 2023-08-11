@@ -9,9 +9,13 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->  
 
+**Spectral graph modeling reveals global slowing of neurophysiological network transmission in Alzheimer's disease.**  
+Parul Verma, Kamalini Ranasinghe, Janani Prasad, Chang Cai, Xihe Xie, Hannah Lerner, Danielle Mizuiri, Bruce Miller, Katherine Rankin, Keith Vossel, Steven W. Cheung, Srikantan Nagarajan$, Ashish Raj  
+[Preprint](https://assets.researchsquare.com/files/rs-2579392/v2_covered.pdf?c=1679508023)
+
 **Bayesian Inference of a Spectral Graph Model for Brain Oscillations.**  
 Huaqing Jin, Parul Verma, Fei Jiang, Srikantan Nagarajan, Ashish Raj.  
-[Preprint](https://www.biorxiv.org/content/10.1101/2023.03.01.530704v1)
+[Paper](https://doi.org/10.1016/j.neuroimage.2023.120278)
 
 **Whole brain network analysis of neural synchrony and information flow during transition from wakefulness to light non-rapid eye movement sleep.**  
 Joline M Fan, Kiwamu Kudo, Parul Verma, Kamalini G Ranasinghe, Hirofumi Morise, Anne M Findlay, Heidi E Kirsch, Ashish Raj, Andrew D Krystal, Srikantan S Nagarajan.    
