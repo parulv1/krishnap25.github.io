@@ -9,17 +9,17 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->  
 
-**Spectral graph modeling reveals global slowing of neurophysiological network transmission in Alzheimer's disease.**  
+**Impaired long-range excitatory time scale predicts abnormal neural oscillations and cognitive deficits in Alzheimer’s disease.**  
 Parul Verma, Kamalini Ranasinghe, Janani Prasad, Chang Cai, Xihe Xie, Hannah Lerner, Danielle Mizuiri, Bruce Miller, Katherine Rankin, Keith Vossel, Steven W. Cheung, Srikantan Nagarajan, Ashish Raj  
-[Preprint](https://assets.researchsquare.com/files/rs-2579392/v2_covered.pdf?c=1679508023)
+[Paper](https://alzres.biomedcentral.com/articles/10.1186/s13195-024-01426-7)
 
 **Bayesian Inference of a Spectral Graph Model for Brain Oscillations.**  
 Huaqing Jin, Parul Verma, Fei Jiang, Srikantan Nagarajan, Ashish Raj.  
 [Paper](https://doi.org/10.1016/j.neuroimage.2023.120278)
 
-**Whole brain network analysis of neural synchrony and information flow during transition from wakefulness to light non-rapid eye movement sleep.**  
+**Cortical Synchrony and Information Flow during Transition from Wakefulness to Light Non-Rapid Eye Movement Sleep.**  
 Joline M Fan, Kiwamu Kudo, Parul Verma, Kamalini G Ranasinghe, Hirofumi Morise, Anne M Findlay, Heidi E Kirsch, Ashish Raj, Andrew D Krystal, Srikantan S Nagarajan.    
-[Preprint](https://www.biorxiv.org/content/10.1101/2022.03.09.483562v1)  
+[Paper](https://www.jneurosci.org/content/43/48/8157)  
 
 **Structure-function models of temporal, spatial, and spectral characteristics of non-invasive whole brain functional imaging.**  
 Ashish Raj, Parul Verma, Srikantan Nagarajan.  
