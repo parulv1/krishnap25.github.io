@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Parul Verma"
 title_separator          : "-"
 name                     : &name "Parul Verma"
-description              : &description "Postdoctoral researcher at University of California, San Francisco"
+description              : &description "Assistant Professor at IIT Madras, India"
 url                      : https://parulv1.github.io #http://localhost:4000 # ## the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "parulv1/parulv1.github.io"
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Parul Verma"
-  avatar           : "Verma_Parul_3888.jpg"
-  bio              : "Postdoctoral researcher specializing in computational neuroscience, network neuroscience, bifurcation theory, personalized medicine, and chemical engineering"
+  avatar           : "Parul Verma-108.jpg"
+  bio              : "Assistant Professor specializing in computational neuroscience, network neuroscience, mathematical modeling, personalized medicine, and chemical engineering"
   location         :
   employer         : "University of California, San Francisco"
   googlescholar    : "https://scholar.google.com/citations?user=fPHDu90AAAAJ&hl=en"
-  email            : "parul.verma@ucsf.edu"
+  email            : "parulv.iitb@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -207,7 +207,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 0 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Kolkata # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
