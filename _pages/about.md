@@ -18,5 +18,5 @@ My thesis work was on predicting and understanding the mechanism of chemotherapy
 
 Before joining Purdue, I obtained my Bachelor of Technology degree in Chemical Engineering from **IIT Bombay**. There, I carried out a research project on moment closure methods for TNF-alpha signaling model with [Dr. Ganesh Viswanathan](https://www.che.iitb.ac.in/index.php/faculty/ganesh-viswanathan). 
 
-Contact me at [my-first-name] [dot] [my-last-name] @ ucsf [dot] edu.
+Contact me at [my-first-name] v @ iitm [dot] ac [dot] in.
 
