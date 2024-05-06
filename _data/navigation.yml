@@ -9,5 +9,5 @@ main:
   - title: "Software"
     url: /software
 
-  - title: "Extracurriculars"
-    url: /extracurriculars
+#  - title: "Extracurriculars"
+#    url: /extracurriculars
