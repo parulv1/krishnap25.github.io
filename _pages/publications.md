@@ -9,6 +9,10 @@ redirect_from:
 
 <!-- Leave two spaces at the end -->  
 
+**Simulation-based inference of developmental EEG maturation with the spectral graph model.**  
+Danilo Bernardo, Xihe Xie, Parul Verma, Jonathan Kim, Virginia Liu, Adam L. Numis, Ye Wu, Hannah C. Glass, Pew-Thian Yap, Srikantan S. Nagarajan, Ashish Raj  
+[Paper](https://www.nature.com/articles/s42005-024-01748-w)
+
 **Impaired long-range excitatory time scale predicts abnormal neural oscillations and cognitive deficits in Alzheimer’s disease.**  
 Parul Verma, Kamalini Ranasinghe, Janani Prasad, Chang Cai, Xihe Xie, Hannah Lerner, Danielle Mizuiri, Bruce Miller, Katherine Rankin, Keith Vossel, Steven W. Cheung, Srikantan Nagarajan, Ashish Raj  
 [Paper](https://alzres.biomedcentral.com/articles/10.1186/s13195-024-01426-7)
